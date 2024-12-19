@@ -1,5 +1,7 @@
 # 가상환경 폴더를 제외합니다.
 modeling_myenv/
+#
+data/
 # Python 관련 기본적인 무시할 파일들
 __pycache__/
 *.py[cod]

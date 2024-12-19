@@ -23,3 +23,5 @@ build/
 .idea/
 # 데이터 파일 (CSV)
 *.csv
+#jpg 파일
+*.jpg
